@@ -1,6 +1,5 @@
 # National-University-of-Singapore
-A simple NUS academic Latex Beamer template.
-> For faster and simpler representation
+A simple NUS academic Latex Beamer template for faster and simpler representation
 > I referenced and made minor modifications to the beamer template from [CityU of Hong Kong Beamer Template](https://www.overleaf.com/latex/templates/cityu-of-hong-kong-beamer/kygnjxtcngtg).
 
 <img width="738" alt="image" src="https://github.com/ruziniuuuuu/NUS-Latex-Beamer/assets/54934297/3ff1adea-e322-4acc-91b5-0d4b36a24c72">
